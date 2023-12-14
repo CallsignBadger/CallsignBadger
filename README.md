@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀 I am passionate about computer architecture, 
 
 ## About Me 🧑‍💻
 
-I'm a [Your Profession or Student Status] with a keen interest in exploring the depths of computer systems, solving algorithmic challenges, and diving into the fascinating world of deep learning.
+I'm a developer with a keen interest in exploring the depths of computer systems, solving algorithmic challenges, and diving into the fascinating world of deep learning.
 
 ## Interests 💡
 
