@@ -1,8 +1,12 @@
+
+  ![image](https://github.com/CallsignBadger/CallsignBadger/assets/153783826/631215de-b2e6-4c8e-be54-c1ae4d6ce54c)
+  
+  
   # Yo, CallsignBadger here! 👋
 
  I am passionate about computer architecture, competitive programming, and deep learning! 🚀
 
-## About Me 💯![image](https://github.com/CallsignBadger/CallsignBadger/assets/153783826/631215de-b2e6-4c8e-be54-c1ae4d6ce54c)
+## About Me 💯
 
 
 I'm a developer with a keen interest in exploring the depths of computer systems, solving algorithmic challenges, and diving into the fascinating world of deep learning.
