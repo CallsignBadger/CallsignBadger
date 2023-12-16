@@ -1,13 +1,10 @@
-
-  ![image](https://github.com/CallsignBadger/CallsignBadger/assets/153783826/631215de-b2e6-4c8e-be54-c1ae4d6ce54c | height=100) 
-  ![image](https://github.com/CallsignBadger/CallsignBadger/assets/153783826/e59e4dd1-fdb1-4089-99de-cdc6d0ea1c16 | height=100)
+![image](https://github.com/CallsignBadger/CallsignBadger/assets/153783826/f71fe658-b7bb-414d-b815-03abdf0f7b8f)
 
 
-  
-  
-  # Yo, CallsignBadger here! 👋
+# Yo, CallsignBadger here! 👋
 
  I am passionate about computer architecture, competitive programming, and deep learning! 🚀
+ Basically anything low-level I can get my hands on 😁
 
 ## About Me 💯
 
